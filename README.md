@@ -2,7 +2,7 @@
 
 FundFlow is a next-generation crowdfunding platform that empowers individuals, startups, and organizations to raise funds seamlessly. Whether it's launching a new product, supporting a social cause, or backing a creative idea, FundFlow provides a transparent, secure, and user-friendly environment for campaigners and donors alike.
 
-# 🌟 Key Features
+#  Key Features
 
 1. Campaign Management – Create, manage, and monitor fundraising campaigns with ease.
 
@@ -18,7 +18,7 @@ FundFlow is a next-generation crowdfunding platform that empowers individuals, s
 
 7. Responsive Design – Optimized for all devices with a clean, modern UI.
 
-# 🏗️ Tech Stack
+#  Tech Stack
 
 Frontend:
 1. React.js + Vite
@@ -74,13 +74,13 @@ npm run dev
 # 🤝 Contributing
 Contributions are always welcome! Please fork this repository, create a feature branch, and submit a pull request.
 
-# 📌 Roadmap
+#  Roadmap
  1. Advanced analytics dashboard
  2. Social media campaign sharing
  3. Multi-currency payment support
  4. Mobile app version (React Native)
 
-# 💡 Inspiration
+#  Inspiration
 
 We believe every idea deserves a chance. FundFlow is built to simplify fundraising, enhance transparency, and connect dreamers with supporters worldwide.
 
